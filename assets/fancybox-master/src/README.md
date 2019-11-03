@@ -1,0 +1,1 @@
+```/assets/fancybox-master/src/```
