@@ -9,7 +9,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<title>Cute File Browser</title>
 		<!-- Include our stylesheet -->
-		<link href="assets/css/styles.css" rel="stylesheet"/> 
+		<link href="assets/css/xstyles.css" rel="stylesheet"/> 
 		
 		<!-- FancyBox --> 
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
@@ -41,7 +41,7 @@
 		<!--- <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script> -->
 		<!-- <script src="https://code.jquery.com/jquery-2.2.4.js"></script> -->
 		<script src="https://code.jquery.com/jquery-3.2.1.js"></script>
-		<script src="assets/js/script.js"></script>
+		<script src="assets/js/xscript.js"></script>
 		<script src="assets/fancybox-master/dist/jquery.fancybox.js"></script>
 
 
