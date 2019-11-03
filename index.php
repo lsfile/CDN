@@ -9,7 +9,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<title>Main Database</title>
 		<!-- Include our stylesheet -->
-		<link href="assets/css/styles.css" rel="stylesheet"/> 
+		<link href="assets/css/styles.css" rel="stylesheet"/>
+		<link href="https://www.apachefriends.org/images/favicon-18f9bd42.png" rel="icon" type="image/png" />
 		
 		<!-- FancyBox --> 
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
