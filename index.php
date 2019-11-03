@@ -9,7 +9,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<title>Database Files</title>
 		<!-- Include our stylesheet -->
-		<link href="assets/css/styles.css" rel="stylesheet"/>
+		<link href="assets/css/xstyles.css" rel="stylesheet"/>
 
 	</head> 
 	<body>
@@ -30,7 +30,7 @@
 
 		<!-- Include our script files -->
 		<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-		<script src="assets/js/script.js"></script>
+		<script src="assets/js/xscript.js"></script>
 
 	</body>
 </html>
